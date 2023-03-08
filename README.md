@@ -1,5 +1,5 @@
 ### Olá! 👋
-#### Me chamo _WALTER JUNIOR_
+#### Me chamo _WALTER JUNIOR_ e estou aprimorando meus conhecimentos em programação Front End.:writing_hand:
 <!--
 **waltermartinspereirajunior/waltermartinspereirajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
