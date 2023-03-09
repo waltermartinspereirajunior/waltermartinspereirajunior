@@ -11,3 +11,9 @@ Foco em desenvolvimento de softwares direcionados à indústria automotiva. :com
 - Formação: [FEI](https://portal.fei.edu.br/), [FATEC](http://www.fatecsp.br/), [Universidaded Braz Cubas](www.brazcubas.edu.br)
 
 - Em formação no [Ford Enter](https://www.fordenter.ford.com/#front-end) :factory:
+
+<div>
+<a href="https://github.com/waltermartinspereirajunior">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odejota&layout=compact&langs_count=7&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=odejota&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div>
