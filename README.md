@@ -12,8 +12,7 @@ Foco em desenvolvimento de softwares direcionados à indústria automotiva. :com
 
 - Em formação no [Ford Enter](https://www.fordenter.ford.com/#front-end) :factory:
 
- ![5a.marcha](blob:https://web.whatsapp.com/8e670e8c-64ff-435b-a7a1-d0a2371b486c) ![8e670e8c-64ff-435b-a7a1-d0a2371b486c](https://user-images.githubusercontent.com/127352621/223884317-99a674d7-d918-438b-beca-3e69a823a2c6.jpg)
-
+![8e670e8c-64ff-435b-a7a1-d0a2371b486c](https://user-images.githubusercontent.com/127352621/223884991-b059998b-a728-42db-a7c6-f24f3f50e771.jpg)
 
 <div>
 <a href="https://github.com/waltermartinspereirajunior">
